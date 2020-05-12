@@ -1,6 +1,10 @@
 <h1> GroupHost® : A Group Chat app using Node JS </h1>
 
 ![URL](https://github.com/ShankarNarayanan97/GroupHost/blob/master/ezgif-3-f945c8007d41.gif)
+
+<h2> WHo is it for? </h2>
+<h4> ANyonw who want's to implement a group chat service like Whatsapp in their local network with nothing more than a browser can make use of this repository </h4>
+
 <h2> Features </h3>
 <h4>1. High User Capability limited to server and HTTP request saturation  </h4>
 <h4>2. Real-Time feedback without refresh of page </h4>
