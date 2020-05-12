@@ -12,7 +12,7 @@
 <h4>4. Easy Deployment on Netlify </h4>
 <h4>5. User Entry and Exit updated Seamlessly</h4>
 
-<h2> Required Libraries </h2>
+<h2> What libraries were used here?</h2>
 <h3>1. express </h3>
 <h3>2. ejs </h3>
 <h3>3. socket.io </h3>
