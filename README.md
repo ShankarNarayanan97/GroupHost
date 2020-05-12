@@ -12,13 +12,13 @@
 <h4>4. Easy Deployment on Netlify </h4>
 <h4>5. User Entry and Exit updated Seamlessly</h4>
 
-<h2> What libraries were used here?</h2>
+<h2> What packages were used here ?</h2>
 <h3>1. express </h3>
 <h3>2. ejs </h3>
 <h3>3. socket.io </h3>
 <h3>4. nodemon </h3>
 
-<h2> Steps to run it </h2>
+<h2> How to go about it? </h2>
 <h3>1. Download this repository  </h3>
 <h3>2. Install the packages using CLI in the project folder using " npm install 'package name' " </h3>
 <h3>3. Run the server by typing "node index.js" or "nodemon". The latter will run the server automatically when changes are detected </h3>
