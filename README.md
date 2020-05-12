@@ -2,10 +2,10 @@
 
 ![URL](https://github.com/ShankarNarayanan97/GroupHost/blob/master/ezgif-3-f945c8007d41.gif)
 
-<h2> WHo is it for? </h2>
+<h2> Who is it for? </h2>
 <h4> Anyone who wants to implement a group chat service like Whatsapp in their local network with nothing more than a browser can make use of this repository </h4>
 
-<h2> Features </h3>
+<h2> Sounds interesting, what are it's features? </h2>
 <h4>1. High User Capability limited to server and HTTP request saturation  </h4>
 <h4>2. Real-Time feedback without refresh of page </h4>
 <h4>3. Highly Customizable EJS rendering file </h4>
