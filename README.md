@@ -5,7 +5,7 @@
 <img src="https://github.com/ShankarNarayanan97/GroupHost/blob/master/ezgif-3-f945c8007d41.gif">
 </p>
 
-<h3>Check out the demo <a href="https://www.youtube.com/watch?v=EsjUVA-Xoc8">here</a> </h3>
+<h3>Click <a href="https://www.youtube.com/watch?v=EsjUVA-Xoc8">here</a> for a better view </h3>
 
 <h2> Who is it for? </h2>
 <h4> Anyone who wants to implement a group chat service like Whatsapp in their local network with nothing more than a browser can make use of this repository </h4>
