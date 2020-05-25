@@ -1,4 +1,4 @@
-<h1> GroupHost® : A Group Chat app using Node JS </h1>
+<h1> GroupHost® : A Group Chat app using Node JS and EJS </h1>
 
 <p align="center">
   
